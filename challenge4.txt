@@ -1,0 +1,12 @@
+Error type: NameError (uninitialized constant)
+
+File path where error happened:
+/Users/student/.rvm/rubies/ruby-2.6.0/bin/irb:23:in `<main>'
+
+Line number of error: 1
+
+Ruby documentation - what error means:
+"Raised when a given name is invalid or undefined."
+
+Suggestion to solve error:
+Define the class causing the error when initialized.
