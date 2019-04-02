@@ -12,7 +12,7 @@ This project is being conducted as part of the Makers Academy course. The aim of
 
 ### Screenshots
 
-###Tech/framework used
+### Tech/framework used
 
 __Built with__
 
