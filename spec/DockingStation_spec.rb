@@ -22,5 +22,10 @@ describe DockingStation do
       subject.dock(bike)
       expect(subject.bike).to eq bike
     end
+
+    it "should print a message docking full" do
+      subject.dock(:bike)
+      expect { subject.dock :bike }.to raise_error "No docking available"
+    end
   end
 end
